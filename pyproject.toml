@@ -2,7 +2,7 @@
 name = "findmyphone"
 version = "0.1.0"
 description = "Rest API to receive phones locations"
-authors = ["Arthur <arp.arthur@gmail.com>"]
+authors = ["Arthur <>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
